@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1 align="center">Welcome to Attendance Management</h1>
-
+        <h3 align="left" style="margin-left: 20px"><a href="report.jsp" class="btn btn-primary">Attendance Report</a></h3>
         <br/>
         <%  
          String msg=request.getParameter("msg");
